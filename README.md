@@ -13,3 +13,9 @@ It is coded against the HBase 1.4.1 API.
 There are two sets of classes in here. One ending in `Template` will _not_ run out of the box. You'll need to customize it to your needs.
 
 The other - ending in `Example` - should run. It treats all input files as text files.
+
+
+- https://blog.cloudera.com/how-to-use-hbase-bulk-loading-and-why/
+- https://medium.com/hashmapinc/3-steps-for-bulk-loading-1m-records-in-20-seconds-into-apache-phoenix-99b77ad87387
+- https://github.com/vaquarkhan/HBase-Bulk-Load-Example
+- https://github.com/zeyuanxy/spark-hbase-bulk-loading/blob/master/HBaseBulkload.scala
